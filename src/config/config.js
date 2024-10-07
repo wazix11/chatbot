@@ -37,7 +37,7 @@ let userPermissions = {
         "josh_raiden", "jateu", "storesE6", "rebecca_h9", "matthewde", "user_11_11", "huniebeexd","kurtyykins",
         "breacherman", "bryceisrightjr","sumaxu","mariemellie","ewok_626","quokka64",
         "casualruffian","likethecheesebri","otsargh","just_some_donkus","fiveacross",
-        "itszalndrin","nicoleeverleigh","fishymeep","ponchobee"],
+        "itszalndrin","nicoleeverleigh","fishymeep","ponchobee", "test"],
     commandUsers: [userRanks.subs]
 }
 
